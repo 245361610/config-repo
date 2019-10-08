@@ -23,6 +23,4 @@ sp:
 \"username\":\"def\"
 ,\"password\":\"456\"},{\"id\":9,
 \"username\":\"ghi\"
-,\"password\":\"789\"},{\"id\":99,
-                       \"username\":\"ghi\"
-                       ,\"password\":\"ceshi99\"}]"
+,\"password\":\"789\"}]"
